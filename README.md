@@ -1,3 +1,12 @@
+#Hospedado na Vercel https://v0-criador-de-tarefas.vercel.app/
+
+
+![image](https://github.com/user-attachments/assets/0840d007-2137-437f-bb0c-36e468cd59dc)
+
+
+
+
+
 # Gerenciador de Tarefas
 
 Um aplicativo web moderno para gerenciamento de tarefas com integração ao Google Calendar, construído com Next.js e TypeScript.
